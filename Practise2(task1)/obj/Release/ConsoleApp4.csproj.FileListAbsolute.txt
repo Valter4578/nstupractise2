@@ -1,0 +1,6 @@
+C:\Users\rasad\source\repos\ConsoleApp4\bin\Release\ConsoleApp4.exe.config
+C:\Users\rasad\source\repos\ConsoleApp4\bin\Release\ConsoleApp4.exe
+C:\Users\rasad\source\repos\ConsoleApp4\bin\Release\ConsoleApp4.pdb
+C:\Users\rasad\source\repos\ConsoleApp4\obj\Release\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\rasad\source\repos\ConsoleApp4\obj\Release\ConsoleApp4.exe
+C:\Users\rasad\source\repos\ConsoleApp4\obj\Release\ConsoleApp4.pdb
